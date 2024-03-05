@@ -5,7 +5,7 @@
 21 Online is an online multiplayer Blackjack game. You can play it [here](https://stopnoanime.github.io/21-online/).
 
 ## Architecture
-The game's frontend is made with Angular. The backend is made using Node.js and the [Colyseus](https://github.com/colyseus/colyseus) framework.
+The game's frontend is made with Angular. The backend is made using Node.js and the [adonisman710](https://github.com/adonisman710/adonisman710) framework.
 The frontend is deployed on Github Pages. The backend is deployed on [Fly.io](https://fly.io/).
 
 ## Tests
